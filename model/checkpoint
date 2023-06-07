@@ -1,0 +1,3 @@
+model_checkpoint_path: "snap-1879"
+all_model_checkpoint_paths: "snap.ckpt"
+all_model_checkpoint_paths: "snap-1879"

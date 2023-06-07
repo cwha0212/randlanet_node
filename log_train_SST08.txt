@@ -1,0 +1,28 @@
+xyz
+<tf.Tensor 'IteratorGetNext:0' shape=(?, ?, 3) dtype=float32>, 
+<tf.Tensor 'IteratorGetNext:1' shape=(?, ?, 3) dtype=float32>, 
+<tf.Tensor 'IteratorGetNext:2' shape=(?, ?, 3) dtype=float32>, 
+<tf.Tensor 'IteratorGetNext:3' shape=(?, ?, 3) dtype=float32>, 
+neigh_idx
+<tf.Tensor 'IteratorGetNext:4' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:5' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:6' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:7' shape=<unknown> dtype=int32>, 
+sub_idx
+<tf.Tensor 'IteratorGetNext:8' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:9' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:10' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:11' shape=<unknown> dtype=int32>, 
+interp_idx
+<tf.Tensor 'IteratorGetNext:12' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:13' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:14' shape=<unknown> dtype=int32>, 
+<tf.Tensor 'IteratorGetNext:15' shape=<unknown> dtype=int32>, 
+features
+<tf.Tensor 'IteratorGetNext:16' shape=(?, ?, 3) dtype=float32>, 
+labels
+<tf.Tensor 'IteratorGetNext:17' shape=(?, ?) dtype=int32>, 
+input_inds
+<tf.Tensor 'IteratorGetNext:18' shape=(?, ?) dtype=int32>, 
+cloud_inds
+<tf.Tensor 'IteratorGetNext:19' shape=(?, ?) dtype=int32>
